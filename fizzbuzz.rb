@@ -1,11 +1,12 @@
 
 def fizzbuzz
-  if n == (3)
+  if fizz_3 == fizzbuzz(3)
     puts "Fizz"
-  elsif n == (5)
+  elsif fizz_5 == fizzbuzz(5)
     puts "Buzz"
-  elsif n = x
+  elsif fizz_15 = fizzbuzz(15)
     puts "FizzBuzz"
-  elsif n = z
+  elsif fizz_4 = fizzbuzz(4)
     puts "nil"
 end
+
